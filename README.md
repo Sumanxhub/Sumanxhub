@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Sumanxhub
-- 👀 I’m interested in Software development, Data Science, A.I. , Machine Learning.
+# ABOUT @SUMANxHUB
+- 👋 Hi, I’m Suman Bhaskar.
+- 👨‍💻 I'm Computer Science Student.
+- 🤖 Technologies I use HTML, CSS, JavaScript, XML.
+- 👀 I’m interested in Web Devlopment, Software Development, Data Science, A.I. , Machine Learning.
 - 🌱 I’m currently learning C++ , Python.
 - 📫 You can reach me at sumanbh0329@gmail.com 
 
