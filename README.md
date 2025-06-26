@@ -1,5 +1,7 @@
 # ABOUT @SUMANxHUB
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sumanxhub&label=Profile%20views&color=0e75b6&style=flat" alt="Sumanxhub" /> </p>
+
 - 👋 Hi, I’m Suman Bhaskar.
 - 👨‍💻 I'm Computer Science Student.
 - 🤖 Technologies I use HTML, CSS, JavaScript, XML.
